@@ -1,5 +1,4 @@
 
-````markdown
 # Web-Socked: WebSocket Command Injection Tester
 
 ## Table of Contents
@@ -42,9 +41,10 @@ Before using `Web-Socked`, ensure you have Python 3.x installed on your system. 
 -   `websocket-client`
 -   `tkinter` (usually comes pre-installed with Python, but confirm if you encounter GUI issues)
 
-## Installation
+#  Installation
 
 1.  **Clone the repository (or copy the code):**
+
     ```bash
     git clone [https://github.com/YourUsername/web-socked.git](https://github.com/YourUsername/web-socked.git)
     cd web-socked
@@ -52,6 +52,7 @@ Before using `Web-Socked`, ensure you have Python 3.x installed on your system. 
     *(Note: Replace `YourUsername` with your actual GitHub username if you create a repository for this.)*
 
 2.  **Install the required Python packages:**
+
     ```bash
     pip install requests websocket-client
     ```
@@ -67,7 +68,7 @@ To run the tool with its graphical interface, execute the script directly:
 
 ```bash
 python your_script_name_gui.py
-````
+```
 
 *(Assuming you've saved the first script as `your_script_name_gui.py`)*
 
@@ -137,9 +138,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 ## Acknowledgements
 
   - Built by DeadmanXXXII
-  - Inspired by and developed during the [Cyfrin Updraft Smart Contract Security Auditor Course](https://updraft.cyfrin.io/).
 
 <!-- end list -->
-
-```
 ```
