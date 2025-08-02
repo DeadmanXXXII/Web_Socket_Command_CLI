@@ -49,7 +49,7 @@ Before using `Web-Socked`, ensure you have Python 3.x installed on your system. 
     git clone [https://github.com/YourUsername/web-socked.git](https://github.com/YourUsername/web-socked.git)
     cd web-socked
     ```
-    *(Note: Replace `YourUsername` with your actual GitHub username if you create a repository for this.)*
+    *(Note: Replace `YourUsername` (with mine or yours if forked) actual GitHub username if you create a repository for this.)*
 
 2.  **Install the required Python packages:**
 
@@ -57,6 +57,10 @@ Before using `Web-Socked`, ensure you have Python 3.x installed on your system. 
     pip install requests websocket-client
     ```
     *(`tkinter` is typically part of standard Python installations.)*
+    ```bash
+    python3 -m venv venv
+    ```
+    Run tkinter in this if using nethunter.
 
 ## Usage
 
